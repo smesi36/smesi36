@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Erekle (Erek) from New Zealand. 
+My journey as of a developer has just begun. I have been working on several individual and team-based projects as part of the Diploma in Digital Technology and Design, Mission Ready HQ, Auckland.
+I have enjoyed learning and working across the full stack using React, Node.js, MySQL (SQL), and MongoDB (NoSQL). I have also enjoyed learning AI tools such as Azure Custom Vision and Google Gemini and have applied them in some of my projects. 
+I have also enjoyed practicing Test-Driven Development (TDD) and Docker deployment.
+
+Currently I am still completing my diploma and I look forward to starting my career as a full-stack developer.  
+
+
 <!--
 **smesi36/smesi36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
