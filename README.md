@@ -6,9 +6,15 @@ I have enjoyed building web apps using React, Node.js, MySQL (SQL), and MongoDB 
 Test-Driven Development (TDD) and Docker deployment are other aspects of development I have enjoyed.
 I also enjoy working alongside UX designers, working from Figma wireframes. 
 
-Currently I am still completing my diploma and I look forward to starting my career as a full-stack developer.  
+Currently I am still completing my diploma and I look forward to starting my career as a full-stack developer. 
 
-[![Erekle's GitHub stats](https://github-readme-stats-two-lilac-63.vercel.app/api?username=smesi36)](https://github.com/smesi36/github-readme-stats)
+<details>
+<summary>:zap: Github Stats</summary>
+  
+  [![Erekle's GitHub stats](https://github-readme-stats-two-lilac-63.vercel.app/api?username=smesi36)](https://github.com/smesi36/github-readme-stats)
+  
+</details>
+
 <!--
 **smesi36/smesi36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
