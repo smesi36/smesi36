@@ -18,7 +18,7 @@ I enjoy building full-stack web apps with React, Node.js, MongoDB, and MySQL, an
 
 ## Examples of Work
 ### AI insurance consultant
-[🔗GitHub Repo](https://github.com/smesi36/Mission4-insurance-advisor)<br>
+[:link:GitHub Repo](https://github.com/smesi36/Mission4-insurance-advisor)<br>
 An AI-powered app built with React, Node.js, and Google Gemini API. Simulates a real-life Turners Cars insurance assistant, asking personalized questions to recommend the best car insurance policy for each user.
 
 📫 How to reach me: smesi36@gmail.com 
