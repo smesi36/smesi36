@@ -1,4 +1,4 @@
-## Hi. I'm Erekle 👋
+## Hi, I'm Erekle 👋
 
 I'm a software developer from from New Zealand. 
 I have been working on individual and team-based projects as part of the Diploma in Digital Technology and Design, Mission Ready HQ, Auckland.
