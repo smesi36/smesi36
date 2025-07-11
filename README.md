@@ -1,13 +1,14 @@
 ## Hi, I'm Erekle 👋
 
 I'm a software developer from from New Zealand. 
-I have been working on individual and team-based projects as part of the Diploma in Digital Technology and Design, Mission Ready HQ, Auckland.
-I have enjoyed learning and working across the full stack using React, Node.js, MySQL (SQL), and MongoDB (NoSQL). I have also enjoyed learning AI tools such as Azure Custom Vision and Google Gemini and have applied them in some of my projects. 
-I have also enjoyed practicing Test-Driven Development (TDD) and Docker deployment.
+I have worked on individual and team-based projects as part of the Diploma in Digital Technology and Design, Mission Ready HQ, Auckland.
+I have enjoyed building web apps using React, Node.js, MySQL (SQL), and MongoDB (NoSQL) and powering my projects with AI tools such as Azure Custom Vision and Google Gemini. 
+Test-Driven Development (TDD) and Docker deployment are other aspects of development I have enjoyed.
+I also enjoy working alongside UX designers, working from Figma wireframes. 
 
 Currently I am still completing my diploma and I look forward to starting my career as a full-stack developer.  
 
-
+[![Erekle's GitHub stats](https://github-readme-stats-two-lilac-63.vercel.app/api?username=smesi36)](https://github.com/smesi36/github-readme-stats)
 <!--
 **smesi36/smesi36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
