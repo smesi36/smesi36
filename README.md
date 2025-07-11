@@ -17,10 +17,10 @@ I enjoy building full-stack web apps with React, Node.js, MongoDB, and MySQL, an
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Examples of Work
-###Z Energy Station Locator App
+### Z Energy Station Locator App
 
 ### AI insurance consultant
-[<img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/link.png' height='14'/>GitHub Repo](https://github.com/smesi36/Mission4-insurance-advisor)<br>
+[<img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/link.png' height='16'/>GitHub Repo](https://github.com/smesi36/Mission4-insurance-advisor)<br>
 An AI-powered app built with React, Node.js, and Google Gemini API. Simulates a real-life Turners Cars insurance assistant, asking personalized questions to recommend the best car insurance policy for each user.
 
 📫 How to reach me: smesi36@gmail.com 
