@@ -5,7 +5,7 @@ A software developer from New Zealand currently enrolled in Diploma in Digital T
 
 I enjoy building full-stack web apps with React, Node.js, MongoDB, and MySQL, and exploring AI integrations using tools like Azure Custom Vision and Google Gemini. I'm also a fan of Test-Driven Development (TDD), working with Docker, and collaborating with UX designers from Figma wireframes.
 
-- 🔭 I’m currently working on completing my Diploma in Digital Technology and Design.
+- 🔭 I’m currently completing my Diploma in Digital Technology and Design.
 
 ## Skills and Experience
 - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
