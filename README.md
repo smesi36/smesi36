@@ -9,7 +9,7 @@ I also enjoy working alongside UX designers, working from Figma wireframes.
 Currently I am still completing my diploma and I look forward to starting my career as a full-stack developer. 
 
 <details>
-<summary>:zap: Github Stats</summary>
+<summary>:zap: GITHUB STATS</summary>
   
   [![Erekle's GitHub stats](https://github-readme-stats-two-lilac-63.vercel.app/api?username=smesi36)](https://github.com/smesi36/github-readme-stats)
   
