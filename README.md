@@ -18,8 +18,8 @@ I enjoy building full-stack web apps with React, Node.js, MongoDB, and MySQL, an
 
 ## Examples of Work
 ### Z Energy Station Locator App
-[<img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/link.png' height='16'/>GitHub Repo]
-
+[<img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/link.png' height='16'/>GitHub Repo](https://github.com/smesi36/Z-Station-App)<br>
+A full-stack web app that displays Z Energy fuel station locations, available services, and real-time fuel prices on an interactive map with regional clustering.
 
 ### AI insurance consultant
 [<img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/link.png' height='16'/>GitHub Repo](https://github.com/smesi36/Mission4-insurance-advisor)<br>
