@@ -35,7 +35,7 @@ An AI-powered app built with React, Node.js, and Google Gemini API. Simulates a 
 
 ### AI Vehicle Classifier (Image Recognition App)
 [<img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/link.png' height='16'/>GitHub Repo](https://github.com/smesi36/Lvl5-Mission-1) <br>
-A web app that uses a trained Azure custom vision object detector AI model to identify some vehicle types 🚚 🚙 🚗 and brands <img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/Toyota-logo.png' height='20' style='vertical-align:middle;'/> <img src='../mercedes-benz-logo.png' height = '20' style='vertical-align:middle;'/> or 'Other'
+A web app that uses a trained Azure custom vision object detector AI model to identify some vehicle types 🚚 🚙 🚗 and brands <img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/Toyota-logo.png' height='20' style='vertical-align:middle;'/> <img src='https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/mercedes-benz-logo.png' height = '20' style='vertical-align:middle;'/> or 'Other'
 
 
 📫 How to reach me: smesi36@gmail.com 
