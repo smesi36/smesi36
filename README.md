@@ -10,14 +10,14 @@ I enjoy building full-stack web apps with React, Node.js, MongoDB, and MySQL, an
 - 🔭 I’m currently completing my Diploma in Digital Technology and Design.
 
 ## Skills and Experience
- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![HTML5](https://img.shields.io/badge/HTML5-ED8B00?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+<picture><img src='https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black' alt='react'/></picture>
+<picture><img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' /></picture>
+<picture><img src='https://img.shields.io/badge/HTML5-ED8B00?style=for-the-badge&logo=html5&logoColor=white' /></picture>
+<picture><img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'/></picture>
+<picture><img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' alt='Node.js'/></picture>
+<picture><img src='https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white' alt='MongoDB'/></picture>
+<picture><img src='https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL'/></picture>
+ 
 ## Examples of Work
 ### Z Energy Station Locator App
 [<img src='./assets/link.png' height='16'/>GitHub Repo](https://github.com/smesi36/Z-Station-App)<br>
