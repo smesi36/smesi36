@@ -1,4 +1,4 @@
-![Full-Stack Software Developer](https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/Erekle%20Sesiashvili%20GitHub.png "banner")
+![Full-Stack Software Developer](assets/erekle-sesiashvili-GitHub.png)
 
 ### Hi there 👋, I'm Erekle
 A software developer from New Zealand currently enrolled in Diploma in Digital Technology and Design at Mission Ready HQ (Auckland).
