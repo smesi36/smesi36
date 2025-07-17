@@ -1,6 +1,6 @@
-<p align="center">
+<picture align="center">
  <img src="./assets/erekle-sesiashvili-GitHub.png" alt="Banner" width="100%" />
-</p>
+</picture>
 <!-- ![Full-Stack Software Developer](assets/erekle-sesiashvili-GitHub.png) -->
 
 ### Hi there 👋, I'm Erekle
