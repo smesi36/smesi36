@@ -1,6 +1,6 @@
 ![Full-Stack Software Developer](https://raw.githubusercontent.com/smesi36/smesi36/refs/heads/main/Erekle%20Sesiashvili%20GitHub.png)
 
-### Hi there 👋, I'm Erekle Sesiashvili
+### Hi there 👋, I'm Erekle
 A software developer from New Zealand currently enrolled in Diploma in Digital Technology and Design at Mission Ready HQ (Auckland).
 
 I enjoy building full-stack web apps with React, Node.js, MongoDB, and MySQL, and exploring AI integrations using tools like Azure Custom Vision and Google Gemini. I'm also a fan of Test-Driven Development (TDD), working with Docker, and collaborating with UX designers from Figma wireframes.
