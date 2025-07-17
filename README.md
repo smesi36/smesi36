@@ -53,6 +53,12 @@ A web app that uses a trained Azure custom vision object detector AI model to id
 
 ---
 
+#### Shoutout to my awesome developer friends 💻🎉😎
+
+#### [Realist2022](https://github.com/Realist2022) · [muddyducky](https://github.com/muddyducky) · [benthuralot](https://github.com/benthuralot) · [FootNuggets22](https://github.com/FootNuggets22) · [zetapow](https://github.com/zetapow) · [TLopati](https://github.com/TLopati) · [SethSamuelCode](https://github.com/SethSamuelCode) · [takashim0101](https://github.com/takashim0101) · [solo258](https://github.com/solo258) · [Wisonytq](https://github.com/Wisonytq) · [robwynyard](https://github.com/robwynyard) · [AdamT-HJ](https://github.com/AdamT-HJ) · [Brittany-Potato](https://github.com/Brittany-Potato) · [Eule034430](https://github.com/Eule034430) · [LuCinemax](https://github.com/LuCinemax) · [Kent-Wharerau](https://github.com/Kent-Wharerau) 
+
+---
+
 📫 How to reach me: smesi36@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smesi36)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/erekle-sesiashvili-8b3a7b59/)  
