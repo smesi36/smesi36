@@ -1,7 +1,6 @@
 <picture align="center">
  <img src="./assets/erekle-sesiashvili-GitHub.png" alt="Banner" width="100%" />
 </picture>
-<!-- ![Full-Stack Software Developer](assets/erekle-sesiashvili-GitHub.png) -->
 
 ### Hi there 👋, I'm Erekle
 A software developer from New Zealand currently enrolled in Diploma in Digital Technology and Design at Mission Ready HQ (Auckland).
